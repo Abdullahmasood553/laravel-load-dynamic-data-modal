@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background: #242a2f !important;
+}
+
+
+.product-info {
+    margin-top: 10px !important;
+    bordeR: 1px solid red;
+    padding:20px;
+}
+
+img {
+    width: 150px;
+    height: 130px;
+}
+
+
+.prod-name {
+    font-size: 26px;
+    color: #cc1919;
+    border-bottom: 1px solid red;
+    font-weight: 500;
+    width:160px;    
+    margin-top: 15px;
+    font-family:  'Oswald', sans-serif;
+}
